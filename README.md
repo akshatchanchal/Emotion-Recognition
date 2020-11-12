@@ -70,4 +70,4 @@ With 5 emotions (leaving out "contempt", "fear" and "sadness"), because the 3 ca
 Therefore, we can note that all classifiers were better when using the reduced dataset because the categories are more balanced.  
 
 > #### Reference:  
->  http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
+>  van Gent, P. (2016). Emotion Recognition With Python, OpenCV and a Face Dataset. A tech blog about fun things with Python and embedded electronics. Retrieved from: http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
